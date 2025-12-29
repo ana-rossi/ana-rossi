@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/ana-rossi/ana-rossi/main/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
