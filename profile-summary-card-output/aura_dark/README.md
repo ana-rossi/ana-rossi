@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ana-rossi/ana-rossi/main/profile-summary-card-output/aura_dark/4-productive-time.svg)
+```
+
+    
